@@ -6,5 +6,3 @@ f = open("spam.txt", 'r')
 for word in f:
 	pyautogui.press("enter")
     pyautogui.typewrite(word)
-
-    
