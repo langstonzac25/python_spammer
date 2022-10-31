@@ -1,1 +1,12 @@
-This is my project
+This is a spammer written in python.
+
+
+USAGE
+
+You just have to paste in what you want to spam in the "spam.txt" file.
+
+Then you just run the python file.
+
+You will have 5 secs to alt tab to the application you want to spam.
+
+Then it will type out the file line by line hitting enter after each line.
